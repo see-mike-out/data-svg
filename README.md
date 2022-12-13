@@ -1,2 +1,3 @@
-# data-svg
-data-driven-svg
+# DSVG
+
+Data-driven SVG declarations.
